@@ -77,3 +77,7 @@ Return n - i:
 If citations[i] is greater than or equal to the number of papers with at least citations[i] citations (n - i), it means that there are at least n - i papers with citations[i] citations. According to the definition of the h-index, this condition satisfies the requirement for the h-index. Therefore, we return n - i as the h-index.
 
 The logic ensures that we find the maximum value of h such that the researcher has published at least h papers that have each been cited at least h times, as defined by the h-index.
+
+
+Link - https://chat.openai.com/c/e8af5b16-dd36-4a8f-a2bd-36b34a162ede
+    
